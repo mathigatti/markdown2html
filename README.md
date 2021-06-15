@@ -21,7 +21,10 @@ Ejercicio final - 20 minutos.
 
 - Requerimientos: una idea que pueda convertirse en proyecto, conexión a internet, acceso a una cuenta de google drive, curiosidad por la programación y algo de inglés.
 
-### 1 Internet
+<details>
+<summary>1 Internet</summary>
+<!--All you need is a blank line-->
+
 Qué es, estado, materialidad y política.
 ¿Qué interpretamos por internet? ¿En qué aporta a nuestra experiencia artística?
 Tramas y trampas de lo digital.
@@ -40,7 +43,13 @@ Ciborgs y centauros
 - crear jpg
 - crear un nft
 
-### 2 Máquinas que escriben
+</details>
+
+<details>
+<summary>2 Máquinas que escriben</summary>
+<!--All you need is a blank line-->
+
+
 ¿Cómo abordan las computadoras el lenguaje? ¿Interpretan?
 Bases de linguística computacional.
 
@@ -58,7 +67,14 @@ Distant reading.
 - tracery
 - aitextgen
 
-### 3 Videojuegos
+</details>
+
+
+<details>
+<summary>3 Videojuegos</summary>
+<!--All you need is a blank line-->
+
+
 ¿Puede la escritura ser un videojuego?
 
 El juego como narración, Jesper Juul
@@ -71,17 +87,25 @@ Visual Novels
 - videojugando a la escritura, aitextdungeon
 - programar un poema interactivo con twine o renpy
 
-### 4 Chatbots
+</details>
+
+<details>
+<summary>4 Chatbots</summary>
+<!--All you need is a blank line-->
 
 Bases técnicas
 Uso narrativo - ejemplos.
 AI Dungeon como chatbot
 
 Haciendo un chatbot utilizando GPT-2
+</details>
 
-### 5 Cierre
+<details>
+<summary>5 Cierre</summary>
+
 Presentación de proyectos
 Devoluciones cruzadas, análisis retrospectivo y aprendizajes
+</details>
 
 ## Detalles
 
@@ -106,3 +130,5 @@ tripaabierta + Independientemente. Si falla el Moran.
 - Momento de teoría / Tema nuevo
 - Momento de discusión / charlar / filosofar
 - Momento de hacer ejercicios, actividades o juegos
+
+
