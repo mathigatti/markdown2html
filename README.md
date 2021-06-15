@@ -1,4 +1,4 @@
-# Instructions to build a simple website using markdown
+# Instructions to build a simple and pretty website using markdown
 
 1. Start writing and saving your markdown in a collaborative space like [pad.riseup.net](https://pad.riseup.net)
 
