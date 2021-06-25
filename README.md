@@ -7,5 +7,7 @@
 2. Edit the file with a [markdown editor and visualizer](https://jbt.github.io/markdown-editor/)
 
 3. Publish it
+
   a. Convert it to html with [this](https://colab.research.google.com/drive/1VksKQ_KnZ6zxdgm_lLA_xW87YPyrOeXY?usp=sharing)
+  
   b. Upload to [netlify](https://www.netlify.com/) or [heroku](heroku.com) or wherever you want
